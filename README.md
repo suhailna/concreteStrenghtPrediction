@@ -16,7 +16,7 @@ This project is part of data science Nanodegree programme by Udacity.
 
 Project consists of one .ipynb file.
 
-## 4. How To Interact With Your Project 
+## 4. How to interact With the Project 
 
 The project can be run using anaconda plateform.
 
