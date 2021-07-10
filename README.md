@@ -1,4 +1,4 @@
-# Concrete Strenght Prediction
+# Concrete Strength Prediction
 Prediction Of Concrete Compressive Strength Using Supervised Machine Learning Models.
 
 ![Image of Concrete](https://github.com/suhailna/concreteStrenghtPrediction/blob/main/Concrete.jpg)
